@@ -13,4 +13,4 @@ With a shift of 3, for instance, D would become  G, E would become H, and so on
 2. Enter the message
 3. Determine the shift position
 
-To fully understand the step by step process of the codee, check the main.py for the comments.
+To fully understand the step by step process of the code, check the main.py for the comments.
